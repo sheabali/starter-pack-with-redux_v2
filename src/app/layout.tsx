@@ -6,7 +6,7 @@ import { Toaster } from "sonner";
 import "./globals.css";
 import { CloudCog } from "lucide-react";
 
-// console.log()
+console.log()
 // CloudCog
 // const roboto = Roboto({
 //   subsets: ["latin"],
